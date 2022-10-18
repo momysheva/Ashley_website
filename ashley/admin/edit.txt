@@ -1,0 +1,1 @@
+<a href="edit-products.php?id=<?php echo $result->id;?>"><i class="fa fa-edit"></i></a>
